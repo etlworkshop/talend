@@ -11,6 +11,7 @@
   <modules>
     <module>code/beans</module>
     <module>code/routines</module>
+    <module>jobs/process/k8spostgresinsertdata_0.1</module>
     <module>jobs/process/test_0.1</module>
   </modules>
   <properties>
@@ -126,7 +127,7 @@
       <plugin>
         <groupId>org.talend.ci</groupId>
         <artifactId>builder-maven-plugin</artifactId>
-        <version>7.3.3</version>
+        <version>7.3.4</version>
         <executions>
           <execution>
             <phase>generate-sources</phase>
