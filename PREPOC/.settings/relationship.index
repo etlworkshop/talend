@@ -1,1 +1,20 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_BFFHYDESEeukYZJLyRUMuA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Ca6oADEJEeuHrZrC1u5xiQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ivlTIDESEeukYZJLyRUMuA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ivlTIDESEeukYZJLyRUMuA - 4insert",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
